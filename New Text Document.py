@@ -1,0 +1,8 @@
+def niggers(): exit()
+
+
+
+
+
+
+niggers()
